@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>293605030096-p08dvhj2mdcrsv9bdc4q3ee6kl7p4c3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.293605030096-p08dvhj2mdcrsv9bdc4q3ee6kl7p4c3b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvZYL5N2C3un79aFiFFbNexeCCaE0hbW8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>293605030096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fr.ngquerol.Diurna</string>
+	<key>PROJECT_ID</key>
+	<string>diurna-863f4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diurna-863f4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<false/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:293605030096:ios:c8dd4a8693eebc8d7c06d5</string>
+	<key>DATABASE_URL</key>
+	<string>https://hacker-news.firebaseio.com</string>
+</dict>
+</plist>
